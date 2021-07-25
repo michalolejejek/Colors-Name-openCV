@@ -34,7 +34,7 @@ List the ready features here:
 ## Screenshots
 ![Main window](./img/s1.png)
 
-![After](./img/s2.png)
+![After](./img/s2.png.png)
 
 
 
