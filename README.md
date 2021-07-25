@@ -85,7 +85,7 @@ for example
 
 Then you can run script using this command:
 
-`$ python3 colors.py -i images.py`
+`$ python3 ColorsName.py -i images.py`
 
 After -i or --input you should give path or name of the file (when it is in the same directory as script)
 
